@@ -1,0 +1,13 @@
+{
+  "name": "clipboard",
+  "version": "1.0.0",
+  "description": "Cross-device clipboard: paste on one device, see it on the other.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.169.0"
+  },
+  "private": true
+}
